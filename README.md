@@ -3,9 +3,9 @@ YouTube Engagement Analysis: Enhancing Content Strategy Through Data
 
 ## Project Description:
 
-In this data science and machine learning project, we will delve into the vast world of YouTube content to analyze user engagement, and recommend personalized video suggestions. Leveraging a comprehensive YouTube statistics dataset from Kaggle, our goal is to provide content creators and marketers with actionable insights to optimize their strategies and boost their channel's performance.
+In this data science and machine learning project, I will delve into the vast world of YouTube content to analyze user engagement, and recommend personalized video suggestions. Leveraging a comprehensive YouTube statistics dataset from Kaggle, our goal is to provide content creators and marketers with actionable insights to optimize their strategies and boost their channel's performance.
 
-**Engagement Analysis:** We will analyze metrics such as subscribers, rank, uploads, and views to identify patterns and trends.
+**Engagement Analysis:** Analyze metrics such as subscribers, rank, uploads, and views to identify patterns and trends.
 
 **Data Visualization:** Create informative data visualizations and interactive dashboards to present our findings in an engaging and comprehensible manner.
 
@@ -33,17 +33,17 @@ In this data science and machine learning project, we will delve into the vast w
    - Build predictive models using historical data to forecast metrics like 'subscribers' and 'video views.'
    - Evaluate the accuracy of the models and make recommendations based on predictions.
 
-By the end of this project, we aim to empower YouTube content creators and marketers with data-driven strategies to enhance user engagement, improve content quality, and give insight on statistical analysis of the last 10 years.
+By the end of this project, I aim to empower YouTube content creators and marketers with data-driven strategies to enhance user engagement, improve content quality, and give insight on statistical analysis of the last 10 years.
 
 ## Conclusion
-In this project, we conducted an exploratory data analysis (EDA) and predictive modeling on a dataset containing information about various YouTube channels. The dataset covered a wide range of variables, including channel rankings, subscribers, video views, uploads, and demographic details. Our primary objectives were to understand the data, perform necessary preprocessing, conduct an exploratory analysis, and create a predictive model for subscribers based on other channel attributes.
+In this project, I conducted an exploratory data analysis (EDA) and predictive modeling on a dataset containing information about various YouTube channels. The dataset covered a wide range of variables, including channel rankings, subscribers, video views, uploads, and demographic details. The primary objectives were to understand the data, perform necessary preprocessing, conduct an exploratory analysis, and create a predictive model for subscribers based on other channel attributes.
 
 Key Steps and Findings:
-Data Cleaning and Preprocessing: We began by cleaning the dataset, addressing issues like missing values, data types, and scaling. Additionally, we converted columns to lowercase and snake case for consistency.
+Data Cleaning and Preprocessing: Begin by cleaning the dataset, addressing issues like missing values, data types, and scaling. Additionally, converted columns to lowercase and snake case for consistency.
 
-Exploratory Data Analysis (EDA): We conducted EDA to gain insights into the data. Visualized the distribution of key features, such as subscribers and video views, and observed relationships between variables. Notably, we examined demographic factors, such as education enrollment and unemployment rates, and their correlation with subscribers.
+Exploratory Data Analysis (EDA): Conducted EDA to gain insights into the data. Visualized the distribution of key features, such as subscribers and video views, and observed relationships between variables. Notably,  examining demographic factors, such as education enrollment and unemployment rates, and their correlation with subscribers.
 
-Predictive Modeling: To predict subscribers, we created a linear regression model. We evaluated the model's performance through cross-validation and visualized the actual vs. predicted subscriber counts.
+Predictive Modeling: To predict subscribers, created a linear regression model. Evaluated the model's performance through cross-validation and visualized the actual vs. predicted subscriber counts.
 
 Challenges:
 
