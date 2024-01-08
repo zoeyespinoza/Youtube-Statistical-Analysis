@@ -38,46 +38,46 @@ By the end of this project, I aim to empower YouTube content creators and market
 ## Plots and Visualizations
 
 ### Actual vs Predicted
-![Actual vs Predicted](path/to/actual_predicted.png)
+![Actual vs Predicted](plots/actual_predicted.png)
 
 ### Audience Engagement
-![Audience Engagement](path/to/audience_engagement.png)
+![Audience Engagement](plots/audience_engagement.png)
 
 ### Distribution of Views
-![Distribution of Views](path/to/distribution_views.png)
+![Distribution of Views](plots/distribution_views.png)
 
 ### Earnings by Channel Type
-![Earnings by Channel Type](path/to/earnings_channeltype.png)
+![Earnings by Channel Type](plots/earnings_channeltype.png)
 
 ### Earnings by Subscribers
-![Earnings by Subscribers](path/to/earnings_subribers.png)
+![Earnings by Subscribers](plots/earnings_subribers.png)
 
 ### Earnings by Views
-![Earnings by Views](path/to/earnings_views.png)
+![Earnings by Views](plots/earnings_views.png)
 
 ### Education Enrollment vs Subscribers
-![Education Enrollment vs Subscribers](path/to/education_enrollment_subscribers.png)
+![Education Enrollment vs Subscribers](plots/education_enrollment_subscribers.png)
 
 ### Map Plots
-![Map Plot 1](path/to/mapplot1.png)
-![Map Plot 2](path/to/mapplot2.png)
-![Map Plot 3](path/to/mapplot3.png)
-![Map Plot 4](path/to/mapplot4.png)
+![Map Plot 1](plots/mapplot1.png)
+![Map Plot 2](plots/mapplot2.png)
+![Map Plot 3](plots/mapplot3.png)
+![Map Plot 4](plots/mapplot4.png)
 
 ### Rank by Video Category
-![Rank by Video Category](path/to/rank_video_category.png)
+![Rank by Video Category](plots/rank_video_category.png)
 
 ### Subplot Distribution
-![Subplot Distribution](path/to/subplot_distribution.png)
+![Subplot Distribution](plots/subplot_distribution.png)
 
 ### Top Channels by Country
-![Top Channels by Country](path/to/top_channels_country.png)
+![Top Channels by Country](plots/top_channels_country.png)
 
 ### Top Content by Subscribers
-![Top Content by Subscribers](path/to/top_content_subscribers.png)
+![Top Content by Subscribers](plots/top_content_subscribers.png)
 
 ### Top Countries by Subscribers
-![Top Countries by Subscribers](path/to/top_countries_subscribers.png)
+![Top Countries by Subscribers](plots/top_countries_subscribers.png)
 
 
 ## Conclusion
