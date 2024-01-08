@@ -39,6 +39,7 @@ By the end of this project, I aim to empower YouTube content creators and market
 In this project, I conducted an exploratory data analysis (EDA) and predictive modeling on a dataset containing information about various YouTube channels. The dataset covered a wide range of variables, including channel rankings, subscribers, video views, uploads, and demographic details. The primary objectives were to understand the data, perform necessary preprocessing, conduct an exploratory analysis, and create a predictive model for subscribers based on other channel attributes.
 
 Key Steps and Findings:
+
 Data Cleaning and Preprocessing: Begin by cleaning the dataset, addressing issues like missing values, data types, and scaling. Additionally, converted columns to lowercase and snake case for consistency.
 
 Exploratory Data Analysis (EDA): Conducted EDA to gain insights into the data. Visualized the distribution of key features, such as subscribers and video views, and observed relationships between variables. Notably,  examining demographic factors, such as education enrollment and unemployment rates, and their correlation with subscribers.
