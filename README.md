@@ -12,28 +12,28 @@ In this data science and machine learning project, I will delve into the vast wo
 ### Methods and Techniques
 
 1. **Content Creator Profiling:**
-   - Use the 'subscribers' and 'video views' columns to identify top content creators.
-   - Group creators by category and country to understand the diversity of content on YouTube.
+   - Used the 'subscribers' and 'video views' columns to identify top content creators.
+   - Grouped creators by category and country to understand the diversity of content on YouTube.
 
 
 2. **Performance Metrics Analysis:**
-   - Analyze 'subscribers,' 'video views,' and 'uploads' to identify trends and patterns in channel growth.
-   - Create visualizations to represent changes over time.
+   - Analyzed 'subscribers,' 'video views,' and 'uploads' to identify trends and patterns in channel growth.
+   - Created visualizations to represent changes over time.
 
 
 3. **Monetization Insights:**
-   - Utilize 'lowest_monthly_earnings' and 'highest_monthly_earnings' to analyze the earnings potential of content creators.
-   - Identify factors that contribute to higher earnings.
+   - Utilized 'lowest_monthly_earnings' and 'highest_monthly_earnings' to analyze the earnings potential of content creators.
+   - Identified factors that contribute to higher earnings.
 
 
 4. **Audience Engagement and Demographics:**
-   - Explore 'Country' and 'Urban_population' to understand the geographic distribution of viewers.
-   - Analyze 'Gross tertiary education enrollment (%)' to assess the education level of the audience.
+   - Explored 'Country' and 'Urban_population' to understand the geographic distribution of viewers.
+   - Analyzed 'Gross tertiary education enrollment (%)' to assess the education level of the audience.
 
 
 5. **Predictive Modeling:**
-   - Build predictive models using historical data to forecast metrics like 'subscribers' and 'video views.'
-   - Evaluate the accuracy of the models and make recommendations based on predictions.
+   - Built predictive models using historical data to forecast metrics like 'subscribers' and 'video views.'
+   - Evaluated the accuracy of the models and make recommendations based on predictions.
 
 By the end of this project, I aim to empower YouTube content creators and marketers with data-driven strategies to enhance user engagement, improve content quality, and give insight on statistical analysis of the last 10 years.
 
