@@ -9,6 +9,8 @@ In this data science and machine learning project, I will delve into the vast wo
 
 **Data Visualization:** Create informative data visualizations and interactive dashboards to present our findings in an engaging and comprehensible manner.
 
+### Methods and Techniques
+
 1. **Content Creator Profiling:**
    - Use the 'subscribers' and 'video views' columns to identify top content creators.
    - Group creators by category and country to understand the diversity of content on YouTube.
