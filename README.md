@@ -3,7 +3,7 @@ YouTube Engagement Analysis: Enhancing Content Strategy Through Data
 
 ## Project Description:
 
-In this data science and machine learning project, I will delve into the vast world of YouTube content to analyze user engagement, and recommend personalized video suggestions. Leveraging a comprehensive YouTube statistics dataset from Kaggle, our goal is to provide content creators and marketers with actionable insights to optimize their strategies and boost their channel's performance.
+This data science and machine learning project dives into the vast world of YouTube content to analyze user engagement, and recommend personalized video suggestions. Leveraging a comprehensive YouTube statistics dataset from Kaggle, our goal is to provide content creators and marketers with actionable insights to optimize their strategies and boost their channel's performance.
 
 **Engagement Analysis:** Analyze metrics such as subscribers, rank, uploads, and views to identify patterns and trends.
 
